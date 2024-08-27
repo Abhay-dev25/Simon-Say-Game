@@ -16,3 +16,8 @@ This is a Simon Says game implemented in JavaScript, HTML, and CSS. The game is 
 * Repeat the Sequence: After the sequence is shown, click the colors in the same order.
 * Progress: If you successfully repeat the sequence, you'll move on to the next round with an additional color      added to the sequence.
 * Game Over: If you make a mistake, the game will end, and you can start again.
+
+# Technologies Used
+* JavaScript: Game logic and interactivity.
+* HTML: Structure of the game.
+* CSS: Styling and animations.
