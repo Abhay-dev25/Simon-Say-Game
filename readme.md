@@ -1,4 +1,5 @@
 # Simon Says Game
+* To Play - https://simonsaysgamebyabhay.netlify.app/
 
 # overview
 This is a Simon Says game implemented in JavaScript, HTML, and CSS. The game is a fun and interactive memory challenge where players must repeat a sequence of colors in the correct order. With each level, the sequence becomes progressively longer and more challenging.
